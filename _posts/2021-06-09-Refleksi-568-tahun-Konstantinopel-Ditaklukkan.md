@@ -6,7 +6,6 @@ last_modified_at: 2021-06-09 23:09 +0800
 tags: [opini]
 toc:  true
 ---
-# Refleksi 568 tahun Konstantinopel Ditaklukkan
 
 29 Mei selalu diperingati sebagai hari ditaklukkannya Ibukota pemerintahan Byzantium, Konstantinopel. Sang penakluk, Sultan Mehmet II, atau yang lebih dikenal dengan Sultan Mehmet Al Fatih, berhasil menaklukkan wilayah itu ketika berusia 21 tahun. Sebuah keberhasilan yang sangat brilian. Mengingat umur Sang Penakluk masih muda dan yang ditaklukkan merupakan ibukota negara Byzantium, negara yang pernah menguasi seluruh Eropa, Asia barat dan Afrika Utara.
 
