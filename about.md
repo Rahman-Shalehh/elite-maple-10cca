@@ -3,6 +3,4 @@ layout: page
 title: About
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
-
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+**Muchammad Abdur Rochman** atau dengan nama akun di media sosial **Rahman Shalehh** hanyalah seorang mahasiswa Theology Islam di Universitas Necemmetin Erbakan, Konya. Saat ini sedang berusaha mengungkapkan isi hati dan kepalanya dengan menulis di beberapa media. Aktif juga menulis di Website [PCINU Turki](https://www.pcinuturki.org/).
