@@ -1,7 +1,6 @@
 title: Muchammad Abdur Rochman
-description: 'Tulisan santai tak bermakna'
+description: 'Pelajar Yang Tak Pernah Pintar'
 url: ''
-avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
@@ -22,21 +21,22 @@ exclude:
   - scripts/
   - not-pure-poole.gemspec
 twitter:
-  username: vszhub
+  username: rahman_shalehh
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Rahman.Shalehh
   links:
-    - 'https://twitter.com/vszhub'
-    - 'https://github.com/vszhub'
+    - 'https://twitter.com/rahman_shalehh'
+    - 'https://github.com/Rahman-Shalehh'
+    - 'https://www.instagram.com/rahman.shalehh'
 google_site_verification: xxxxx
 lang: en
 sass:
   sass_dir: _sass
   style: ':compressed'
 author:
-  name: Songzi Vong
-  url: 'https://github.com/vszhub/'
-  email: vszhub@gmail.com
+  name: Rahman Shalehh
+  url: 'https://github.com/Rahman-Shalehh'
+  email: muchammad1101@gmail.com
 baseurl: ''
