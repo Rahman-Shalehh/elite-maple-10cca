@@ -2,7 +2,6 @@
 layout: post
 title: Refleksi 568 Tahun Konstantinopel Ditaklukkan
 date: 2021-06-09 23:09 +0800
-last_modified_at: 2021-06-09 23:09 +0800
 tags: [opini]
 toc:  true
 ---
