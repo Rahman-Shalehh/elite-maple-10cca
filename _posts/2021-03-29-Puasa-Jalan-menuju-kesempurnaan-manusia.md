@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Puasa: Jalan menuju Kesempurnaan Manusia
-date: 2021-06-09 23:09 +0800
-last_modified_at: 2021-06-09 23:09 +0800
+title: Puasa; Jalan Menuju Kesempurnaan Manusia
+date: 2021-03-29 21:29 +0800
 tags: [opini]
 toc:  true
 ---
